@@ -1,8 +1,8 @@
 # I'm Matvey 👋
 
-<img alt="my stats" align="left" wifth="49%" src="https://github-readme-stats.vercel.app/api?username=Wereker&show_icons=true"/>
+<img alt="my stats" align="left" wifth="49%" src="https://github-readme-stats.vercel.app/api?username=Wereker&show_icons=true&theme=transparent"/>
 
-<img alt="my top languages" align="right" wifth="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wereker&layout=compact"/>
+<img alt="my top languages" align="right" wifth="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wereker&layout=compact&theme=transparent"/>
 <!--
 **Wereker/Wereker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
