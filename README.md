@@ -1,6 +1,9 @@
 # I'm Matvey 👋
 
 <img alt="gitHub stats" src="https://github-readme-stats.vercel.app/api?username=Wereker&show_icons=true"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Werker)](https://github.com/Werker/github-readme-stats)
+
 <!--
 **Wereker/Wereker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
